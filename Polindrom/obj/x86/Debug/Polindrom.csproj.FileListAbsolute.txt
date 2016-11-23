@@ -1,0 +1,4 @@
+D:\C#_Lesson\Polindrom\Polindrom\bin\Debug\Polindrom.exe
+D:\C#_Lesson\Polindrom\Polindrom\bin\Debug\Polindrom.pdb
+D:\C#_Lesson\Polindrom\Polindrom\obj\x86\Debug\Polindrom.exe
+D:\C#_Lesson\Polindrom\Polindrom\obj\x86\Debug\Polindrom.pdb
